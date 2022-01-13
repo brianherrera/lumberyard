@@ -55,3 +55,4 @@ For complete copyright and license terms please see the LICENSE.txt file at the 
 -	Your fork may not enable the use of third-party compute, storage or database services.  
 -	It's fine to connect to third-party platform services like Steamworks, Apple GameCenter, console platform services, etc.  
 To learn more, please see our FAQs https://aws.amazon.com/lumberyard/faq/#licensing.
+
